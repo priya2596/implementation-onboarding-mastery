@@ -1,19 +1,10 @@
-# implementation-onboarding-mastery
-AI-augmented Implementation &amp; Onboarding Manager for B2B SaaS
+# Priyanka Ranganathan
+## Implementation & Onboarding Manager | B2B SaaS | AI-Augmented Delivery
 
-A structured 14-week program of real implementation work, technical 
-skill building, and AI-augmented delivery practice.
+This repository contains frameworks, templates, tools, and 
+real implementation work built from hands-on delivery experience 
+across ERP integrations, enterprise onboarding, and AI-assisted 
+implementation workflows.
 
-## Program Structure
-- Phase 0 — Foundations
-- Phase 1 — Technical Mastery
-- Phase 2 — Implementation & Onboarding Craft
-- Phase 3 — Business Acumen & Failure Library
-- Phase 4 — Tools & AI Ecosystem
-- Phase 5 — Data & Metrics
-- Phase 6 — Portfolio
-- Phase 7 — Venture Thinking
-- Phase 8 — Capstone & Certification
-
-## Focus
-B2B SaaS | ERP Integrations | AI-Augmented Delivery | Germany
+Specialising in: SAP · Oracle · Navision · SaaS Onboarding · 
+GDPR-Compliant Delivery · Germany
