@@ -6,4 +6,12 @@ real implementation work built from hands-on delivery experience
 across ERP integrations, enterprise onboarding, and AI-assisted 
 implementation workflows.
 
-SaaS Onboarding · Delivery · Germany
+## Work
+- [ERP Data Mapping](/erp-data-mapping)
+- [Onboarding Playbooks](/onboarding-playbooks)
+- [Implementation Frameworks](/implementation-frameworks)
+- [Client Communication Templates](/client-communication-templates)
+- [GDPR Compliance Toolkit](/gdpr-compliance-toolkit)
+- [AI-Augmented Workflows](/ai-augmented-workflows)
+- [Metrics & Health Tracking](/metrics-and-health-tracking)
+- [Capstone Project](/capstone-project)
