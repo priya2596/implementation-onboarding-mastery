@@ -6,5 +6,4 @@ real implementation work built from hands-on delivery experience
 across ERP integrations, enterprise onboarding, and AI-assisted 
 implementation workflows.
 
-Specialising in: SAP · Oracle · Navision · SaaS Onboarding · 
-GDPR-Compliant Delivery · Germany
+SaaS Onboarding · Delivery · Germany
