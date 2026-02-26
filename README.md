@@ -1,7 +1,5 @@
 # implementation-onboarding-mastery
 AI-augmented Implementation &amp; Onboarding Manager for B2B SaaS
-# Implementation & Onboarding Mastery Program
-### AI-Native Edition — 2026
 
 A structured 14-week program of real implementation work, technical 
 skill building, and AI-augmented delivery practice.
