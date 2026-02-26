@@ -49,5 +49,4 @@ post-launch stabilisation.
 
 ---
 
-*B2B SaaS · Enterprise Software · AI Delivery · 
-Onboarding Design · Program Management · Germany*
+*Verticals: Health Tech · Data Platforms · AI Products
