@@ -6,9 +6,9 @@
 
 ---
 
-## The Real Problem Nobody Names
+## Why this Framework exists?
 
-Before I describe the framework, I want to name the thing that is almost never named.
+Before I describe the framework, I want to name why it exists.
 
 The problem is not the technology.
 
