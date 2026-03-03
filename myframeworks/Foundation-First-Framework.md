@@ -10,6 +10,8 @@
 
 Before I describe the framework, I want to name why it exists.
 
+A company spends 18 months and €2 million implementing a new analytics platform. The go-live happens. Leadership celebrates. Six months later, the finance team is still exporting to Excel because the data coming out of the platform doesn't match what they know to be true. Nobody can explain why. The vendor points at the integration. The integration team points at the source systems. The source system owners say nothing has changed on their end. The project is technically complete. The problem is very much alive.
+
 The problem is not the technology.
 
 The problem is what happens when urgency becomes a permanent operating mode.
