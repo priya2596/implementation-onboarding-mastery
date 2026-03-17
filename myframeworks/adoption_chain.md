@@ -19,7 +19,7 @@ You can't fix adoption after go-live. The decisions that determine it were made 
 
 ## The Framework
 
-![The Adoption Chain — three decisions made before go-live that determine everything after](adoption_chain.png)
+(adoption_chain.png)
 
 ---
 
