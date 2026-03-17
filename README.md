@@ -1,14 +1,30 @@
 # Priyanka Ranganathan
-## Strategic Implementation & Onboarding Professional
-### B2B SaaS · AI-Augmented Delivery · Germany
 
-I design and lead complex software implementations and onboarding 
-programs that get clients to value faster, across SaaS platforms, 
-AI products, and enterprise software ecosystems.
+## Implementation · Product · Onboarding
+### AI · Data · Health Tech · Human Wellness · Germany
 
-This repository contains real frameworks, playbooks, tools, and 
-delivery artifacts built from hands-on implementation work.
+I work at the intersection of product thinking and implementation,
+the full arc from shaping what gets built to making sure it actually
+gets used.
+
+Six years across McKinsey, Spendscape, and Lang & Fragmeier have
+shown me where implementations fail, why adoption collapses, and
+what it takes to close the gap between a signed contract and a
+product people open every day.
+
+This repository is where I document that thinking — frameworks,
+playbooks, teardowns, and tools built from real delivery experience.
 
 ---
 
-*Verticals: Health Tech · Data Platforms · AI Augmented Implementation
+**What you'll find here**
+- Adoption and onboarding frameworks built for data SaaS and health tech
+- Product teardowns of companies at the AI · Data · Health intersection
+- Implementation playbooks from real projects
+- Learning notes from ongoing study across tech, health science, and PM craft
+
+---
+
+**Verticals:** Health Tech · Data Platforms · AI Products · Workplace Wellness  
+**Location:** Köln, Germany
+**Connect:** http://www.linkedin.com/in/priyankaranganathan359569
