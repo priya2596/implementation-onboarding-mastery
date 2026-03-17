@@ -19,7 +19,9 @@ You can't fix adoption after go-live. The decisions that determine it were made 
 
 ## The Framework
 
-(adoption_chain.png)
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/03d4e3dd-acfb-4118-8231-2af48a56fc35" />
+
 
 ---
 
