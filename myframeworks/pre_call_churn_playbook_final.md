@@ -1,4 +1,4 @@
-![The Pre-Call Churn Playbook](images/playbook_banner.png)
+<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/bc14a230-f0f6-4f41-ae11-a3f7b2b3b72d" />
 
 ![](https://img.shields.io/badge/Domain-Customer%20Success-c8a882?style=flat&labelColor=141414)
 ![](https://img.shields.io/badge/Type-Playbook-c8a882?style=flat&labelColor=141414)
