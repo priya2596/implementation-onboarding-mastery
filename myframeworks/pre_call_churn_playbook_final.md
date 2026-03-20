@@ -31,7 +31,8 @@ That starts with acknowledgement before questions, before solutions, before road
 
 <br>
 
-![Signal flow](images/playbook_signal_diagram.png)
+<img width="1200" height="240" alt="image" src="https://github.com/user-attachments/assets/a8aa92a0-d38b-499a-8bed-bb308de3d415" />
+
 
 <br>
 
