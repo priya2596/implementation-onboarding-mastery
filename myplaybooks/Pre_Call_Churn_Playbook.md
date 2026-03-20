@@ -187,7 +187,7 @@ Use **Notion or a simple document** to build a pre-call prep template you fill i
 
 ## The pre-call checklist
 
-Use this five minutes before you join the call.
+Use this before you join the call.
 
 - [ ] Pulled usage data for the last 90 days and identified when engagement dropped
 - [ ] Identified the trigger moment what changed and when
