@@ -104,8 +104,8 @@ You do not need Gainsight to do this well. You need discipline.
 
 - **Product database or admin panel** — log in and look at last login dates, active users, and feature usage directly
 - **Your CRM notes** (HubSpot, Pipedrive, or even a shared Notion doc) — read every interaction note from the last 6 months
-- **Email thread history** — how often were they reaching out? Did frequency drop? Did their response times get longer?
-- **A simple spreadsheet** — build a 90-day timeline yourself. Date, event, signal. You will see the pattern.
+- **Email thread history** -how often were they reaching out? Did frequency drop? Did their response times get longer?
+- **A simple spreadsheet** —build a 90-day timeline yourself. Date, event, signal. You will see the pattern.
 
 </details>
 
@@ -178,10 +178,10 @@ Use **Notion or a simple document** to build a pre-call prep template you fill i
 
 **What not to do:**
 
-- Do not open with a discount — it signals panic and devalues your product
+- Do not open with a discount it signals panic and devalues your product
 - Do not defend your team, your product, or your company in the first half of the call
-- Do not bring a roadmap slide to a first churn call — it reads as deflection
-- Do not ask "what would it take for you to stay?" in the first five minutes — it skips the acknowledgement they need
+- Do not bring a roadmap slide to a first churn call it reads as deflection
+- Do not ask "what would it take for you to stay?" in the first five minutes it skips the acknowledgement they need
 
 ---
 
@@ -190,12 +190,12 @@ Use **Notion or a simple document** to build a pre-call prep template you fill i
 Use this five minutes before you join the call.
 
 - [ ] Pulled usage data for the last 90 days and identified when engagement dropped
-- [ ] Identified the trigger moment — what changed and when
+- [ ] Identified the trigger moment what changed and when
 - [ ] Checked for stakeholder changes in the account in the last 6 months
 - [ ] Reviewed open support tickets and unresolved friction points
 - [ ] Written one hypothesis sentence: what happened and when it started
 - [ ] Prepared three specific questions that test the hypothesis
-- [ ] Decided what I will acknowledge first — specific, not generic
+- [ ] Decided what I will acknowledge first specific, not generic
 - [ ] Reminded myself: acknowledge before I question, evidence before I solve
 
 ---
