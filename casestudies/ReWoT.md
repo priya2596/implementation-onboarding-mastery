@@ -1,0 +1,97 @@
+# ReWoT — Case Study
+
+**Role:** Product Owner & UX Designer  
+**Company:** McKinsey & Company / Spendscape  
+**Timeline:** 3 months, zero to live  
+**Team served:** 85 people  
+
+---
+
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/d5b8bc5a-0864-400d-b2fe-964abdadfc42" />
+
+
+## The problem
+
+McKinsey's Data Analytics India team received 10 to 15 client requests daily through a shared inbox. One person each morning spent 3 to 4 hours manually opening emails, categorising each request across three service lines — Business Modelling, Data Engineering, and Predictive Analytics — checking an Excel tracker for team availability, forwarding to the right sub-team, and updating the tracker.
+
+When anyone was on leave or forgot to update the file, requests disappeared. Clients escalated. The team's reputation suffered. There was no single source of truth, no visibility into capacity, and no accountability system.
+
+**The numbers before ReWoT:**
+- 3 to 4 hours of manual intake work every single morning
+- 3 to 5 requests missed or dropped every week
+- 85 people served with zero tooling
+- One Excel file as the single point of failure
+
+---
+
+## My approach
+
+### Discovery — mapped the intake journey end to end
+
+I started by understanding exactly where the chaos was coming from. I mapped the intake journey from the moment an email arrived in the shared mailbox to the moment a team member started working on it. I counted the manual steps. I counted the failure points. I spoke to the people doing the work and the people affected when it broke.
+
+Core insight: the problem was not that people were inefficient. The problem was that the system made efficiency impossible.
+
+### Define — three automation goals, one visibility goal
+
+I defined the product around three automation goals and one visibility goal:
+
+1. Automate the intake — fetch new emails from the shared mailbox every morning automatically
+2. Automate the classification — an ML model predicts which of the three service lines each request belongs to based on keywords
+3. Automate notification — one click to assign a request triggers an automatic email to the assignee
+4. Real-time visibility — a dedicated availability page showing team capacity, current workload, and leave dates
+
+Every request received a unique ID. Leadership could search by ID and see status instantly.
+
+### Build and deliver — SCRUM cycles with engineering, user-driven iteration
+
+I designed the UX and worked in SCRUM cycles with the engineering team. I stayed close to every iteration — writing requirements and being present in the room, catching things that would not have worked for actual users.
+
+After launch, users complained the tool was unfamiliar. Rather than defending the product, I incorporated every piece of feedback one by one over two weeks. That process transformed adoption.
+
+---
+
+## Key decisions
+
+### Decision 1 — ML classification over manual tagging
+
+The easy path was a dropdown where users manually tagged each request. Faster to build, lower technical risk.
+
+I pushed for ML classification because manual tagging preserved the cognitive load that was the core problem. If someone still had to read each email and decide its category, we had only partially solved the problem. The model was imperfect at launch. We iterated. The direction was right.
+
+### Decision 2 — Build availability visibility into the product, not just request tracking
+
+The original brief was about fixing the intake pipeline. I extended scope to include real-time team availability on the same platform. This was a risk — it added build time and complexity. But without visibility into who was available to take work, the assignment step would still rely on memory and informal knowledge. The intake could be automated but the routing would still break. Availability visibility was not a feature addition. It was the thing that made the rest of the product work.
+
+### Decision 3 — Treat user resistance as a signal, not friction to override
+
+After launch, users complained the tool was unfamiliar and felt like more work. I made a deliberate choice not to defend the product. I listened to every single piece of feedback from every team member and incorporated it one by one.
+
+It took two weeks. Then something shifted. People started opening ReWoT as the first thing they did each morning — before email, before anything else. It became the team's morning ritual.
+
+Resistance at launch was not a product failure. It was information.
+
+---
+
+## Outcome
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Daily intake time | 3 to 4 hours | 5 minutes |
+| Requests missed weekly | 3 to 5 | ~0 |
+| Team capacity visibility | None | Real-time |
+| Request traceability | Excel, manually updated | Searchable by unique ID |
+
+Approximately 200 missed requests eliminated annually. 85 people served. Full adoption in 2 weeks with no mandate.
+
+---
+
+## What I learned
+
+**Adoption is not a launch event.** It is built in the two weeks after, one piece of user feedback at a time. The users who resist hardest at launch often become the strongest advocates if you listen to them properly.
+
+**The right success metric for an internal product** is not usage rate or error reduction. It is whether people would feel its absence if it disappeared tomorrow. ReWoT passed that test.
+
+---
+
+*Priyanka Ranganathan — Implementation & Product · [LinkedIn](https://www.linkedin.com/in/priyanka-ranganathan/) · [GitHub](https://github.com/priya2596/implementation-onboarding-mastery)*
