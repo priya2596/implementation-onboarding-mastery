@@ -20,8 +20,7 @@ playbooks, teardowns, and tools built from real delivery experience.
 **What you'll find here**
 - Adoption and onboarding frameworks built for data SaaS and health tech
 - Product teardowns of companies at the AI · Data · Health intersection
-- Implementation playbooks from real projects
-- Learning notes from ongoing study across tech, health science, and PM craft
+- Implementation playbooks and case studies from real projects
 
 ---
 
