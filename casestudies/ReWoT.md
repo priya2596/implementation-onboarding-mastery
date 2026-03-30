@@ -94,4 +94,4 @@ Approximately 200 missed requests eliminated annually. 85 people served. Full ad
 
 ---
  
-*Priyanka Ranganathan — Implementation & Product · [LinkedIn](https://http://www.linkedin.com/in/priyankaranganathan359569) · [GitHub](https://github.com/priya2596/implementation-onboarding-mastery)*
+*Priyanka Ranganathan — Implementation & Product · [LinkedIn](http://www.linkedin.com/in/priyankaranganathan359569) · [GitHub](https://github.com/priya2596/implementation-onboarding-mastery)*
