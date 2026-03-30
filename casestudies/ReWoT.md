@@ -93,5 +93,5 @@ Approximately 200 missed requests eliminated annually. 85 people served. Full ad
 **The right success metric for an internal product** is not usage rate or error reduction. It is whether people would feel its absence if it disappeared tomorrow. ReWoT passed that test.
 
 ---
-
-*Priyanka Ranganathan — Implementation & Product · [LinkedIn](www.linkedin.com/in/priyankaranganathan359569) · [GitHub](https://github.com/priya2596/implementation-onboarding-mastery)*
+ 
+*Priyanka Ranganathan — Implementation & Product · [LinkedIn](https://www.linkedin.com/in/priyanka-ranganathan/) · [GitHub](https://github.com/priya2596/implementation-onboarding-mastery)*
