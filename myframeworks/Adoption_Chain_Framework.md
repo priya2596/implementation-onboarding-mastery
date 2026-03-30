@@ -97,4 +97,4 @@ These are not three independent failures. They are one chain. Each decision make
 
 ---
 
-*Part of the [PM Mastery Program](https://github.com/priya2596/implementation-onboarding-mastery) — building full product lifecycle expertise at the intersection of AI · Data · Health · Technology · Human Wellness.*
+*Priyanka Ranganathan — Implementation & Product · [LinkedIn](www.linkedin.com/in/priyankaranganathan359569) · [GitHub](https://github.com/priya2596/implementation-onboarding-mastery)*
