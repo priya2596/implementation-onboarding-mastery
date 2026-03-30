@@ -129,6 +129,5 @@ It is a living document. If you have observations, additions, or pushback from y
 
 ---
 
-*Priyanka Ranganathan — Implementation & Onboarding Professional*
-*[LinkedIn](https://www.linkedin.com/in/priyankaranganathan359569)*
+*Priyanka Ranganathan — Implementation & Product · [LinkedIn](www.linkedin.com/in/priyankaranganathan359569) · [GitHub](https://github.com/priya2596/implementation-onboarding-mastery)*
 
