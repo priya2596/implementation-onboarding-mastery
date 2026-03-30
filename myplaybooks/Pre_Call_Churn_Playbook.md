@@ -210,7 +210,5 @@ Never:             Discount first / Defend first / Roadmap first
 
 ---
 
-*Built by [Priyanka Ranganathan](https://www.linkedin.com/in/priyanka-ranganathan/) — Implementation & Onboarding, AI · Data · Health Tech*
-
-*Part of the [Implementation & Onboarding Mastery](https://github.com/priya2596/implementation-onboarding-mastery) framework series.*
+*Priyanka Ranganathan — Implementation & Product · [LinkedIn](http://www.linkedin.com/in/priyankaranganathan359569) · [GitHub](https://github.com/priya2596/implementation-onboarding-mastery)*
 
