@@ -187,4 +187,4 @@ Without this, the framework produces documentation and stability that will decay
 
 ---
 
-*Priyanka Ranganathan is an Implementation & Onboarding Specialist with experience delivering enterprise SaaS implementations across procurement analytics, ERP integration, and large-scale data delivery. This framework is drawn from patterns observed across multiple enterprise implementations.*
+*Priyanka Ranganathan — Implementation & Product · [LinkedIn](www.linkedin.com/in/priyankaranganathan359569) · [GitHub](https://github.com/priya2596/implementation-onboarding-mastery)*
