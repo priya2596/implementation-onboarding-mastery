@@ -1,7 +1,7 @@
 # Priyanka Ranganathan
 
-## Implementation · Product · Onboarding
-### AI · Data · Health Tech · Human Wellness · Germany
+## Product · Onboarding
+### Data · Health Tech · Human Wellness · Germany
 
 I work at the intersection of product thinking and implementation,
 the full arc from shaping what gets built to making sure it actually
@@ -23,7 +23,4 @@ playbooks, teardowns, and tools built from real delivery experience.
 - Implementation playbooks and case studies from real projects
 
 ---
-
-**Verticals:** Health Tech · Data Platforms · AI Products · Workplace Wellness  
-**Location:** Köln, Germany
 **Connect:** http://www.linkedin.com/in/priyankaranganathan359569
